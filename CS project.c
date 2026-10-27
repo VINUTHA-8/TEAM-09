@@ -363,7 +363,7 @@ void saveHistoryToFile()
         return;
     }
 
-    fprintf(fp, "SMART EMERGENCY RESPONSE SYSTEM\n");
+    fprintf(fp, "EMERGENCY SERVICE MANAGEMENT SYSTEM\n");
     fprintf(fp, "COMPLETED EMERGENCY HISTORY\n\n");
 
     for (i = top; i >= 0; i--)
@@ -391,7 +391,7 @@ int main()
     {
         printf("\n");
         printf("=========================================\n");
-        printf(" SMART EMERGENCY RESPONSE SYSTEM (SERS)\n");
+        printf(" Emergency Service Management System\n");
         printf("=========================================\n");
 
         printf("1. Register Emergency\n");
