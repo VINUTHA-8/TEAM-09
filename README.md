@@ -1,4 +1,4 @@
-# TEAM-09: Smart Emergency Response System
+# Emergency Service Management System
 
 A menu-driven C program for registering and managing emergency requests. It uses
 a queue for pending emergencies and a stack for completed-emergency history.
