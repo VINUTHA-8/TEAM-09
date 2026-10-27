@@ -3,13 +3,6 @@
 A menu-driven C program for registering and managing emergency requests. It uses
 a queue for pending emergencies and a stack for completed-emergency history.
 
-## About
-
-SERS is an educational C project that models a console-based emergency-response
-workflow using priority levels, an array-backed queue, and a stack to manage
-pending and completed requests. It is a learning/demo program, not a live
-emergency service.
-
 ## Features
 
 - Register ambulance, fire, and police emergencies
